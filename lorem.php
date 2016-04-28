@@ -41,3 +41,5 @@ foreach($contents as $key => $content) {
 	git push origin lorem
 */
 
+// Supprimer un fichier
+//unlink('lorem/lorem50.txt');
